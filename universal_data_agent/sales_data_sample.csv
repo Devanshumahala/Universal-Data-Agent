@@ -1,0 +1,11 @@
+OrderID,CustomerName,Product,Category,Quantity,Price,TotalAmount,OrderDate,City,PaymentMethod
+1001,Amit Sharma,Laptop,Electronics,1,55000,55000,2025-01-10,Delhi,UPI
+1002,Neha Gupta,Headphones,Electronics,2,1500,3000,2025-01-11,Mumbai,Credit Card
+1003,Rahul Mehta,T-Shirt,Fashion,3,500,1500,2025-01-12,Bangalore,Cash
+1004,Sneha Jain,Smartphone,Electronics,1,20000,20000,2025-01-13,Delhi,UPI
+1005,Arjun Singh,Shoes,Fashion,1,2500,2500,2025-01-14,Jaipur,Debit Card
+1006,Kavita Verma,Watch,Accessories,2,1200,2400,2025-01-14,Pune,Credit Card
+1007,Manish Rao,Backpack,Accessories,1,1800,1800,2025-01-15,Hyderabad,UPI
+1008,Ritu Bansal,Tablet,Electronics,1,15000,15000,2025-01-16,Delhi,Cash
+1009,Aditya Yadav,Jacket,Fashion,1,3000,3000,2025-01-17,Mumbai,Debit Card
+1010,Pooja Sharma,Mouse,Electronics,2,400,800,2025-01-18,Chennai,UPI
